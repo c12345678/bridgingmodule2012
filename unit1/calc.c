@@ -1,3 +1,7 @@
+/*
+ * A simple general purpose calculator demonstrating functions and function dispatch
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
