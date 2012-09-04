@@ -1,3 +1,7 @@
+/*
+ * Integer scalar types
+ */
+
 #include <stdio.h>
 #include <string.h>
 
