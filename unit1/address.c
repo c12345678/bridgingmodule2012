@@ -1,3 +1,7 @@
+/*
+ * The name of an array is a pointer to the first element in that array
+ */
+
 #include <stdio.h>
 
 int main()
