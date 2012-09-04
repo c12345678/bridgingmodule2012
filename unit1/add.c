@@ -1,3 +1,7 @@
+/*
+ * Add two integers input from the keyboard
+ */
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])
