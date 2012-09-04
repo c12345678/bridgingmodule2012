@@ -1,3 +1,6 @@
+/*
+ * Compare physical and logical sizes of strings
+ */
 #include <stdio.h>
 #include <string.h>
 
